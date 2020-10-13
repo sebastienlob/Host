@@ -1,12 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyBYJ-SvLC9ddPZHssJ9nEUjNh_yEJDn5wE",
-    authDomain: "hunt-464c3.firebaseapp.com",
-    databaseURL: "https://hunt-464c3.firebaseio.com",
-    projectId: "hunt-464c3",
-    storageBucket: "hunt-464c3.appspot.com",
-    messagingSenderId: "863561277014",
-    appId: "1:863561277014:web:80f5b391b1017ffa3065f7",
-    measurementId: "G-MVWZQ5V9VG"
-  };
+  apiKey: "AIzaSyC_gQiL1NuKrs8ED1jIhrknrJl2wMMNS8U",
+  authDomain: "hunt-documentation.firebaseapp.com",
+  databaseURL: "https://hunt-documentation.firebaseio.com",
+  projectId: "hunt-documentation",
+  storageBucket: "hunt-documentation.appspot.com",
+  messagingSenderId: "1034808362756",
+  appId: "1:1034808362756:web:fb171ac3b7cd73418b3251",
+};
 
-  export default firebaseConfig
+export default firebaseConfig;
